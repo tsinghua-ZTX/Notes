@@ -61,7 +61,7 @@
 ## 🚩学习心得
 ### 🤖机器学习
 1. **自编码器(Autoencoder)** ——— 简介与实例
-   - [PPT下载](https://github.com/tsinghua-ZTX/Notes/blob/master/JC_12.22.pptx?raw=true)
+   - [PPT下载](https://github.com/tsinghua-ZTX/Notes/blob/master/MachineLearning/JC_12.22.pptx?raw=true)
    - [相关文献](https://cloud.tsinghua.edu.cn/lib/5c9aa4b1-facf-4466-9b74-81a0fe5678da/file/2.Literature%20Reading/Journal%20Club/2018.12.15/Binbin/Lopez%20et%20al.%20-%202018%20-%20Deep%20generative%20modeling%20for%20single-cell%20transcrip.pdf)
    - [更多内容](https://github.com/tsinghua-ZTX/Notes/MachineLearning)
 2. **支持向量机(SVM)**
