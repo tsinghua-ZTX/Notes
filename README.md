@@ -54,7 +54,7 @@
 
 ## 💾过往笔记总结（整理中）
 
-[12月笔记总结](https://github.com/tsinghua-ZTX/Notes/blob/master/Log_1810.md)
+[12月笔记总结](https://github.com/tsinghua-ZTX/Notes/blob/master/Log_1812.md)
 
 [11月笔记总结](https://github.com/tsinghua-ZTX/Notes/blob/master/Log_1811.md)【整理中】
 
