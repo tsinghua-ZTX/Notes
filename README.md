@@ -3,6 +3,11 @@
 [赵天啸](https://github.com/tsinghua-ZTX/) @ Tsinghua University
 
 ## 📖**每日记录**
+- **1.12**
+   - RNA Regulation(By Yumin)教学讲座 & 5-min JC
+   - 完善了Github中的内容，建立了基本框架
+   - 将Feature Selection部分中的各个feature标准化，绘制了大作业中的[Heatmap](https://github.com/tsinghua-ZTX/Bioinfos/blob/master/pipeline/Output/final_heatmap.pdf)
+   - 复习考试
 
 - **1.10 & 1.11**
    - 复习考试
