@@ -3,6 +3,16 @@
 [赵天啸](https://github.com/tsinghua-ZTX/) @ Tsinghua University
 
 ## 📖**每日记录**
+- **1.20**
+   - 休息
+   - 完成scRNA-seq中Batch effect的报告（生命科学前沿大作业）
+
+- **1.19**
+   - 总结了目前的已经完成的大作业内容；
+   - 和小组内其他成员进行讨论，分工并开始撰写最终的报告
+   - JC（甲基化对脑瘤亚型的分类）
+   - Presentation(肖楠学姐：CRC-lncRNA)
+
 - **1.18**
    - 整理出各个Feature对应基因的信息，查询了其对应的生物学意义
    - 查询并阅读了有关scRNA-seq中Batch Removal的文献；开始撰写相关总结
