@@ -3,6 +3,11 @@
 [赵天啸](https://github.com/tsinghua-ZTX/) @ Tsinghua University
 
 ## 📖**每日记录**
+- **1.21**
+   - [Circular RNA: A new star of noncoding RNAs](https://cloud.tsinghua.edu.cn/lib/5c9aa4b1-facf-4466-9b74-81a0fe5678da/file/2.Literature%20Reading/2.%20exRNA/circRNA/circRNA%20analysis/Circular%20RNA-%20A%20new%20star%20of%20noncoding%20RNAs.pdf)
+   - 更新了集群账号的环境，完善了各项设置，以适应python和pytorch
+   - 学习了pytorch的一些[基本操作与原理](https://www.pytorchtutorial.com/pytorch-60-minuites/)
+
 - **1.20**
    - 休息
    - 完成scRNA-seq中Batch effect的报告（生命科学前沿大作业）
