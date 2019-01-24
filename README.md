@@ -3,6 +3,21 @@
 [赵天啸](https://github.com/tsinghua-ZTX/) @ Tsinghua University
 
 ## 📖**每日记录**
+- **1.24**
+   - 在exorb & scirep的数据上完成了LOBICO模型的建立、数据分析以及可视化：[LOBICO](https://github.com/tsinghua-ZTX/LOBICO)
+   - 具体内容可以参见[LOBICO](https://github.com/tsinghua-ZTX/LOBICO)库
+
+- **1.23**
+   - 阅读[有关LOBICO的文献](https://www.sciencedirect.com/science/article/pii/S0092867416307462)，学习了其中的原理
+   - 尝试学习对应的[Github库](https://github.com/tknijnen/LOBICO)，并在此基础上进行了修改与完善
+   - 开始分析exorb & scirep的数据，完成了LOBICO模型的建立
+
+- **1.22**
+   - 和鲁老师讨论了接下来的计划
+   - 和旭鹏确定了下一阶段的任务（exseek项目完善）
+   - 下载了MATLAB、CPLEX，初步学习了两个软件的基本操作
+   - 跑通了CPLEX在MATLAB里面给出的各个例子
+
 - **1.21**
    - [Circular RNA: A new star of noncoding RNAs](https://cloud.tsinghua.edu.cn/lib/5c9aa4b1-facf-4466-9b74-81a0fe5678da/file/2.Literature%20Reading/2.%20exRNA/circRNA/circRNA%20analysis/Circular%20RNA-%20A%20new%20star%20of%20noncoding%20RNAs.pdf)
    - 更新了集群账号的环境，完善了各项设置，以适应python和pytorch
