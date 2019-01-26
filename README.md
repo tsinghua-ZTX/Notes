@@ -3,6 +3,15 @@
 [赵天啸](https://github.com/tsinghua-ZTX/) @ Tsinghua University
 
 ## 📖**每日记录**
+- **1.26**
+   - JC (5min Sharing)
+   - Group Meetinig (GSD的SNP整合、筛选与分析)
+
+- **1.25**
+   - 修改了一下LOBICO的模型，改进了二值化的策略
+   - Dry Lab Meeting
+   - 学习了矩阵二值化的基本知识
+
 - **1.24**
    - 在exorb & scirep的数据上完成了LOBICO模型的建立、数据分析以及可视化：[LOBICO](https://github.com/tsinghua-ZTX/LOBICO)
    - 具体内容可以参见[LOBICO](https://github.com/tsinghua-ZTX/LOBICO)库
