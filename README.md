@@ -3,6 +3,10 @@
 [赵天啸](https://github.com/tsinghua-ZTX/) @ Tsinghua University
 
 ## 📖**每日记录**
+- **2.15**
+   - Come back into work
+   - 2019 Future Plan Meeting
+
 - **1.28**
    - 年终总结报告会
    - 年终聚餐
